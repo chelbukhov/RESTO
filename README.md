@@ -1,1 +1,1 @@
-"# RESTO" 
+"# RESTO token and Crowdsale contract" 
