@@ -1,0 +1,10 @@
+Rinkeby
+
+create transaction
+https://rinkeby.etherscan.io/tx/0x6ebfcf282999f48a4bb3411b7cb680305d47e19383ef92a71ed479a94cdf5d06
+
+crowdsale contract
+https://rinkeby.etherscan.io/address/0xcb31e099c17290bc17acc49799492cabc4b971d7
+
+token
+https://rinkeby.etherscan.io/token/0x961737138fb014fc884ca27598a372b4e8ebec8f
